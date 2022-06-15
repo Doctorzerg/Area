@@ -1,4 +1,4 @@
-# Area
+# The Area
 You can caculate the areas simply
 Enjoy my app
 For Example
